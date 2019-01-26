@@ -1,4 +1,4 @@
-Markup : ![Site](./images/site.jpg "Site Preview")
+![image](./images/site.png)
 
 
 # Built with the icanhazdadjoke API.
