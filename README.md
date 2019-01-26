@@ -1,4 +1,4 @@
-![image](./images/site.png)
+![site preview](/src/images/site.png)
 
 
 # Built with the icanhazdadjoke API.
